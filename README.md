@@ -1,6 +1,6 @@
 # DemoMvcAndSsdtWithTests
 
-This demo projects is intendeded to aid in troubleshooting two warnings that appear when SSDT Unit Tests are used in the same solution as an MVC project.
+This demo projects is intended to aid in troubleshooting two warnings that appear when SSDT Unit Tests are used in the same solution as an MVC project.
 
 Creation and configuration notes.
 
